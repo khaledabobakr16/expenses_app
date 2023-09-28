@@ -12,7 +12,9 @@ A new Flutter project.
 <img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/bc828fc2-1eeb-4143-b4a8-3488c3c4a980" width="100" height="200"/>
 <img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/22b147c6-2bb3-4865-912f-233359fbeb45" width="100" height="200"/> 
 </p>
+
 ## Video of this project
+
 
 https://github.com/khaledabobakr16/expenses_app/assets/133836975/9209fe87-fd1c-4d64-afe6-ed5fd8755b16
 
