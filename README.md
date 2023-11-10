@@ -8,9 +8,9 @@ A new Flutter project.
 ## Screenshots
 
 <p float="left">
-<img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/f62f071b-dcbc-414d-a3fb-8cb5b8b5d256" width="100" height="200"/>
-<img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/bc828fc2-1eeb-4143-b4a8-3488c3c4a980" width="100" height="200"/>
-<img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/22b147c6-2bb3-4865-912f-233359fbeb45" width="100" height="200"/> 
+<img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/0246e051-2584-4dc2-9ffd-1043da45f409" width="100" height="200"/>
+<img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/0460247c-3e23-41ce-b370-55b42e73d6e6" width="100" height="200"/>
+<img src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/9e7d41f9-1568-4fb1-860b-dbc9bccd109e" width="100" height="200"/> 
 </p>
 
 ## Video of this project
