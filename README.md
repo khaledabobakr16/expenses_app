@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img width="6522" alt="expense_App" src="https://github.com/khaledabobakr16/expenses_app/assets/133836975/4ca0526f-c6da-4e85-ba4b-701385de728d">
+![image](https://github.com/khaledabobakr16/expenses_app/assets/133836975/0d892528-f9a3-4107-b78c-411c44a10edd)
 
 
 ## Screenshots
