@@ -16,5 +16,9 @@ A new Flutter project.
 ## Video of this project
 
 
-https://github.com/khaledabobakr16/expenses_app/assets/133836975/9209fe87-fd1c-4d64-afe6-ed5fd8755b16
+
+https://github.com/khaledabobakr16/expenses_app/assets/133836975/3dff8d86-ae21-410c-b476-25c3a96b9325
+
+
+
 
